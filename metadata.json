@@ -1,0 +1,19 @@
+{
+    "title": "Programming: Loop Control in Nested Loops",
+    "slug": "programming-loop-control-nested-loops",
+    "description": "Explains how loop-control statements behave inside nested loops, including which loop is affected.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "programming",
+        "pseudocode"
+    ],
+    "duration": 2,
+    "prerequisites": [
+        "programming-nested-loops",
+        "programming-loop-control"
+    ],
+    "related": [
+    ]
+}
